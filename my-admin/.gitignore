@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+/.mfsu
+.swc
+
+# production
+/dist
+
+# umi
+/.umi
+/.umi-production
+/.umi-test
+/src/.umi
+/src/.umi-production
+/src/.umi-test
+
+# local env files
+.env.local
+.env.*.local
+
+# local config files
+/.umirc.local.ts
+/config/config.local.ts
+
+# misc
+.DS_Store
+*.tgz
+*.tar.gz
