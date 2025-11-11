@@ -60,14 +60,14 @@ export default defineConfig({
       icon: 'HomeOutlined',
       component: './Home',
     },
-    { 
-          path: '/array', 
-          name: '数组', 
+    // { 
+    //       path: '/array', 
+    //       name: '数组', 
           
           
-          icon: 'StarTwoTone',
-          component: './Array' 
-        },
+    //       icon: 'StarTwoTone',
+    //       component: './Array' 
+    //     },
         { 
           path: '/linkedlist', 
           name: '链表', 
